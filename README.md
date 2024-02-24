@@ -22,7 +22,6 @@
    - Job Type - Remote 
    - Duration - Sep 2023 - Present
    - Location - Chattogram, Bangladesh.
-   - Hire Me [![WhatsApp](![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white))][https://wa.me/0131784842?text=urlencodedtext](https://wa.me/) 
  
  > **Back-end Developer at [Ali Technology ](https://www.facebook.com/alitechbd/)**
    
