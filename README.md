@@ -21,7 +21,6 @@
 
    - Job Type - Remote 
    - Duration - Sep 2023 - Present
-   - Location - Chattogram, Bangladesh.
  
  > **Back-end Developer at [Ali Technology ](https://www.facebook.com/alitechbd/)**
    
