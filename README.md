@@ -17,7 +17,7 @@
 
 **Experience**
 
- > **Back-end Developer at [AliTechBD](http://www.alitechbd.com/)**
+ > **Back-end Developer at [Ali Technology ](https://www.facebook.com/alitechbd/)**
    
    - Job Type - Full-time
    - Duration - Apr 2023 - Aug 2023
