@@ -17,11 +17,6 @@
 
 **Experience**
 
- > **Web Application Developer**
-
-   - Job Type - Remote 
-   - Duration - Sep 2023 - Present
- 
  > **Back-end Developer at [Ali Technology ](https://www.facebook.com/alitechbd/)**
    
    - Job Type - Full-time
