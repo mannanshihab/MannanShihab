@@ -8,38 +8,13 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=MannanShihab&style=flat-square) -->
+![](https://komarev.com/ghpvc/?username=MannanShihab&style=flat-square)
 
 **About**
  
-> I am Abdul Mannan Shihab. I am Web Application Developer. I completed my Diploma in Computer Engineering. Proficient in PHP programming language with two years of hands-on experience. Skilled in database development using MySQL. Knowledgeable about software patterns and practices, with commercial exposure to the full software lifecycle. I believe that my knowledge and experience will allow me to create innovative and efficient web solutions for my clients.
-
-
-**Experience**
-
- > **Back-end Developer at [Ali Technology ](https://www.facebook.com/alitechbd/)**
-   
-   - Job Type - Full-time
-   - Duration - Apr 2023 - Aug 2023
-   - Location - Chattogram, Bangladesh · On-site
- 
- > **Front-end Developer at [EasyFie](https://www.easyfie.com/)**
-
-   - Job Type - Full-time
-   - Duration - May 2022 - Mar 2023
-   - Location - Chattogram, Bangladesh · On-site
-
-
-**Education**
-
-  > **Diploma in Computer Engineering**.
-
-   - Institute - Chittagong Technical College
-   - Duration  - Aug 2014 - Sep 2018
-   - Location  - Chattogram, Bangladesh.
+As a self-employed Web Application Developer since October 2023, I have worked on various projects, including a study abroad admission system, and an e-commerce site, utilizing Laravel, Livewire, and Filament PHP to deliver custom solutions that leverage both front-end and back-end skills. Prior to this, I was a Junior Back-end Developer at Ali Technology from March to August 2023, where I contributed to Asset and Attendance Management systems using PHP and AJAX, enhancing my technical skills in a collaborative environment. Earlier, I served as a Front-end Developer at Easyfie from May 2022 to March 2023, focusing on building interactive web applications with JavaScript, Bootstrap, and PHP, which strengthened my front-end development skills in a fast-paced.
 
 **Get In Touch 👀**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MannanShihab/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MannanShihab)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/MannanShihab.07)
