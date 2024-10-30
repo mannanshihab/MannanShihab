@@ -12,7 +12,7 @@
 
 **About**
  
-As a self-employed Web Application Developer since October 2023, I have worked on various projects, including a study abroad admission system, and an e-commerce site, utilizing Laravel, Livewire, and Filament PHP to deliver custom solutions that leverage both front-end and back-end skills. Prior to this, I was a Junior Back-end Developer at Ali Technology from March to August 2023, where I contributed to Asset and Attendance Management systems using PHP and AJAX, enhancing my technical skills in a collaborative environment. Earlier, I served as a Front-end Developer at Easyfie from May 2022 to March 2023, focusing on building interactive web applications with JavaScript, Bootstrap, and PHP, which strengthened my front-end development skills in a fast-paced.
+I am Mannan Shihab, a professional Web Application Developer. As a self-employed Web Application Developer since October 2023, I have worked on various projects, including a study abroad admission system, and an e-commerce site, utilizing Laravel, Livewire, and Filament PHP to deliver custom solutions that leverage both front-end and back-end skills. Prior to this, I was a Junior Back-end Developer at Ali Technology from March to August 2023, where I contributed to Asset and Attendance Management systems using PHP and AJAX, enhancing my technical skills in a collaborative environment. Earlier, I served as a Front-end Developer at Easyfie from May 2022 to March 2023, focusing on building interactive web applications with JavaScript, Bootstrap, and PHP, which strengthened my front-end development skills in a fast-paced.
 
 **Get In Touch 👀**
 
