@@ -6,9 +6,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4A5568?style=flat-square&logo=livewire&logoColor=white)
+![FilamentPHP](https://img.shields.io/badge/Filament-38A169?style=flat-square&logo=filament-php&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=MannanShihab&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=MannanShihab&style=flat-square) -->
 
 **About**
  
