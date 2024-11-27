@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdul Mannan Shihab
 🚀 Full-Stack Web Developer | PHP Enthusiast
 
-I'm passionate about building dynamic and scalable web applications using modern technologies. My primary focus is on PHP, but I also love working with JavaScript, HTML,CSS, MySQL, and Laravel. With a solid understanding of both front-end and back-end development, I strive to create seamless user experiences and efficient code.
+I am passionate about building dynamic, scalable web applications using modern technologies. My primary focus is on PHP, with extensive experience working with frameworks like Laravel and Livewire to create efficient, real-time applications. In addition to my back-end skills, I am proficient in JavaScript, HTML, CSS, and MySQL, enabling me to design seamless user interfaces and deliver optimal user experiences. I also enjoy leveraging FilamentPHP for building powerful and intuitive admin panels, and I strive to create clean, maintainable code that ensures scalability and performance.
 
 ## 💻 What I work on:
 
@@ -12,7 +12,6 @@ I'm passionate about building dynamic and scalable web applications using modern
 
 ## 🌱 Currently learning:
 
-- Latest trends in web development
 - Improving code performance and security
 - Building more advanced projects with Vue.js
 
