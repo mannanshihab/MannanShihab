@@ -31,3 +31,4 @@ I'm passionate about building dynamic and scalable web applications using modern
 ## **Get In Touch 👀**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MannanShihab/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801317684842)
