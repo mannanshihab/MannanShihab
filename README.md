@@ -65,7 +65,6 @@ I take pride in building projects that make an impact. Whether it's developing a
 If you're interested in collaborating, discussing ideas, or just connecting, feel free to reach out! I'm always open to new opportunities and challenges.  
 
 ✉️ **Email:** [amannanshihab@gmail.com](mailto:amannanshihab@gmail.com)
-💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amannanshihab/)
 
 
 
