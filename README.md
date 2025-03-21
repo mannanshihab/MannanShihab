@@ -3,7 +3,7 @@
 
 👋 Hi, I'm **Abdul Mannan Shihab**, a passionate and skilled **Full-Stack Web Developer** with a strong focus on building dynamic, scalable, and efficient web applications. My expertise lies in leveraging modern technologies to create seamless user experiences and robust back-end systems. I am particularly enthusiastic about **PHP** and its ecosystem, and I thrive on solving complex problems with clean, maintainable, and performant code.  
 
----
+
 
 ## **🚀 What I Do**  
 I specialize in **full-stack web development**, with a strong emphasis on both front-end and back-end technologies. My work revolves around:  
