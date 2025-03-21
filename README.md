@@ -13,7 +13,7 @@ I specialize in **full-stack web development**, with a strong emphasis on both f
 - **Performance Optimization:** Ensuring applications are fast, efficient, and capable of handling high traffic.  
 - **Open-Source Contributions:** Actively contributing to open-source projects to give back to the developer community.  
 
----
+
 
 ## **💻 Technologies I Work With**  
 I am proficient in a wide range of technologies, including:  
@@ -32,14 +32,14 @@ I am proficient in a wide range of technologies, including:
 - FilamentPHP (for building intuitive admin panels)  
 - Livewire (for dynamic, real-time front-end interactions)  
 
----
+
 
 ## **🌱 Currently Learning**  
 I am always eager to expand my knowledge and skills. Currently, I am focused on:  
 - **Improving Code Performance and Security:** Ensuring my applications are not only fast but also secure from potential vulnerabilities.  
 - **Advanced Vue.js Projects:** Exploring Vue.js to build more interactive and dynamic front-end experiences.  
 
----
+
 
 ## **🔧 Key Skills**  
 - **Full-Stack Development:** Expertise in both front-end and back-end development, enabling me to deliver end-to-end solutions.  
@@ -47,15 +47,10 @@ I am always eager to expand my knowledge and skills. Currently, I am focused on:
 - **Database Management:** Strong knowledge of MySQL for designing and managing databases.  
  
 
----
+
 
 ## **🌟 What Drives Me**  
 I am deeply passionate about **problem-solving** and **innovation**. I enjoy tackling challenges head-on and finding creative solutions to deliver high-quality applications. My goal is to create software that not only meets user needs but also exceeds their expectations in terms of performance, scalability, and usability.  
-
----
-
-## **🛠️ Projects & Contributions**  
-I take pride in building projects that make an impact. Whether it's developing a full-stack web application, optimizing an existing system, or contributing to open-source, I strive to deliver excellence in every line of code I write. My work reflects my commitment to **clean code**, **scalability**, and **user-centric design**.  
 
 ---
 
