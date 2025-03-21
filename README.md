@@ -44,10 +44,8 @@ I am always eager to expand my knowledge and skills. Currently, I am focused on:
 ## **🔧 Key Skills**  
 - **Full-Stack Development:** Expertise in both front-end and back-end development, enabling me to deliver end-to-end solutions.  
 - **PHP & Laravel:** Extensive experience in PHP and Laravel for building scalable and efficient web applications.  
-- **Real-Time Applications:** Skilled in using Livewire to create real-time, interactive features.  
-- **Admin Panels:** Proficient in FilamentPHP for developing powerful and user-friendly admin interfaces.  
 - **Database Management:** Strong knowledge of MySQL for designing and managing databases.  
-- **UI/UX Design:** Ability to create clean, modern, and responsive user interfaces using Bootstrap and TailwindCSS.  
+ 
 
 ---
 
